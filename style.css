@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+    background-color: #F96167;
+}
+
+#Date-of-birth
+{
+    
+    height:1.5rem;
+    width:20%;
+    margin:0.8rem;
+}
+#Luck-number
+{ height:1.5rem;
+    width:20%;
+    margin:0.8rem;
+}
+#check{
+border:1px solid black;
+border-radius: 2rem;
+width:10%;
+height:2rem;
+font-size:1rem;
+background-color: #FCE77D;
+}
+#output{
+    border:1px solid black;
+    color:#FCE77D;
+    height:2rem;
+    width:20%;
+    margin:1rem;
+    text-align:center;
+    font-size: larger;
+    border-radius: 0.5rem;
+}
