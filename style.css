@@ -22,6 +22,7 @@ width:10%;
 height:2.5rem;
 font-size:1rem;
 background-color: #FCE77D;
+cursor: pointer;
 }
 #output{
     border:1px solid black;
